@@ -135,3 +135,4 @@ with open('src/data/finalData.json', 'w') as fout:
 print("\n\nSuccessfully merged:")
 print("\n".join(dupNames))
 print("\nto:\n" + firstOrgName)
+
