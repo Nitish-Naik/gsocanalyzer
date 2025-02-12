@@ -116,3 +116,5 @@ for d in data:
 with open('data.json', 'w') as fout:
     json.dump(data , fout,indent = 6)
     print(data)
+
+    
